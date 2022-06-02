@@ -5,6 +5,6 @@
 ### Приведем шаблон к рабочему виду :
 1. Скопируем файл `.env.dist`, и переименуем его `.env` (.env это рабочий файл, .env.dist это файл просто для примера)
 2. Создадим новые хендлеры.`
-3. Создадим  [venv](https://docs.python.org/3/library/venv.html)
+3. Создадим  [venv](https://docs.python.org/3/library/venv.html) `python3 -m env venv && source venv/bin/activate`
 4. Далее установим зависимости, которые прописаны в файле requirements.txt: `pip3 install -r requirements.txt`
 5. Запуск проекта консольной командой: `python3 bot.py`
