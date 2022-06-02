@@ -1,5 +1,9 @@
 # OLDtemplate
 
+<<<<<<< HEAD
+=======
+Шаблон подходит для версии **aiogram**<=3.0.0(ниже 3)
+>>>>>>> e9484db3780b2c45f80bcfa503d63ab154ec0ff1
 
 Данный шаблон старого образца,  подходит для (ниже 3)[`aiogram v3.0-`](https://github.com/aiogram/aiogram/tree/dev-3.x).
 
